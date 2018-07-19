@@ -1,8 +1,10 @@
+#CloudFlare VARS
 CF_API_KEY=
 ZONE_ID=
 RECORD_ID=
 CF_EMAIL=
 DNS_RECORD=
 
+#Pushbullet VARS
 PP_API=
 PP_EMAIL=
