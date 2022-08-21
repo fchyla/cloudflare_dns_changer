@@ -2,7 +2,6 @@
 CF_API_KEY=
 ZONE_ID=
 RECORD_ID=
-CF_EMAIL=
 DNS_RECORD=
 
 #Pushbullet VARS
